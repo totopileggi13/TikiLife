@@ -1,0 +1,7 @@
+{
+  "name": "Tiki Life (Pi's App)",
+  "description": "Una Single Page Application giocosa e minimalista per gestire la vita di Tiki (Pi). Include tracker salute, diario dei ricordi, calcolatore cibo e bottone emergenza Zoomies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
